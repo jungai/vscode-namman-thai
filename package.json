@@ -10,7 +10,7 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:namman-thai.helloWorld"
+    "onStartupFinished"
   ],
   "main": "./dist/extension.js",
   "contributes": {
